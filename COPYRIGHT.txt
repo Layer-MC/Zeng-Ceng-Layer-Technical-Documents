@@ -1,0 +1,94 @@
+================================================================================
+Copyright Notice
+================================================================================
+
+The copyright and related rights of this collection of works (including but not
+limited to 0keep.txt, 1keep.txt, and other technical documents written or
+compiled by "曾, 層, 层, Layer") are jointly owned by the following authors:
+
+     曾 (First Generation, original note author)
+     層 (Second Generation, traditional Chinese codename, expander)
+     层 (Third Generation, simplified Chinese codename, main technical
+          supplementer)
+     Layer (Fourth Generation, translator, organizer, and disseminator)
+
+hereinafter referred to as "the Original Authors".
+
+================================================================================
+License
+================================================================================
+
+This collection of works is licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International Public License
+(CC BY-SA 4.0).
+
+You are free to:
+
+     Share — copy and redistribute the material in any medium or format.
+     Adapt — remix, transform, and build upon the material for any purpose,
+     including but not limited to supplementing technical details, translating
+     into other languages, reformatting, converting to other formats, or
+     creating derivative tutorials or documents.
+
+Under the following terms:
+
+     Attribution (BY)
+         You must give appropriate credit, clearly stating the Original Authors
+         as "曾, 層, 层, Layer".
+         You must provide a link to the license:
+         https://creativecommons.org/licenses/by-sa/4.0/
+         You must indicate if changes were made (e.g., "This document is based
+         on the original work with the following additions: XXX").
+         You may not suggest that the Original Authors endorse you or your use.
+
+     ShareAlike (SA)
+         If you remix, transform, or build upon the material, you must distribute
+         your contributions under the same license as the original (i.e., CC BY-SA 4.0
+         or a later version).
+         You must include the text of, or a link to, the license in your adapted
+         material, and retain the attribution to the Original Authors.
+
+The complete legal text of the license can be found in the LICENSE file in this
+directory, or at:
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+================================================================================
+Additional Notes
+================================================================================
+
+1. [Modification and Attribution] The Original Authors explicitly permit anyone
+   to modify, supplement, translate, or reorganize this work, provided that the
+   above attribution ("曾, 層, 层, Layer") is retained. You may also add your own
+   name after the Original Authors' names, for example: "曾, 層, 层, Layer + Your Name".
+   This respects the contribution of the Original Authors while acknowledging
+   your own.
+
+2. [Succession Suggestion] The Original Authors suggest that future generations
+   (Fifth, Sixth, etc.) may continue the tradition using the following codenames:
+   Strata → Stratum → Sheaf. This is not a mandatory requirement but is regarded
+   as respect for the spirit of inheritance.
+
+3. [Disclaimer] This work is provided "AS-IS". The Original Authors make no
+   representations or warranties of any kind, express or implied, regarding the
+   completeness, accuracy, or suitability of the content. The Original Authors
+   shall not be liable for any direct or indirect damages arising from the use
+   of this work.
+
+4. [Open Source Spirit] This work aims to promote the sharing and inheritance
+   of knowledge about mobile Minecraft: Java Edition launchers and related
+   low‑level technologies. No one may use this work for malicious commercial
+   closed‑source purposes, plagiarism, or acts that harm the community.
+   The Original Authors reserve the right to take action against violations of
+   the license terms.
+
+================================================================================
+How to Cite This Work
+================================================================================
+
+Suggested citation format:
+
+     曾, 層, 层, Layer (2020-2026). "Mobile Minecraft: Java Edition Low‑Level
+     Technical Notes". License: CC BY-SA 4.0. Available at: [fill in the URL or
+     local path where the documents are stored]
+
+================================================================================
